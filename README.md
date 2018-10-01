@@ -1,3 +1,2 @@
-learn-git
-#²ËÄñ½Ì³Ì Git ²âÊÔ
-##µÚÒ»´Î´ĞŞ¸ÄÄÚÈİ
+How to use git and github
+µÚÒ»´Î²âÊÔ
